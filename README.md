@@ -99,4 +99,6 @@ This project is an Arduino-based greenhouse monitoring and control system. It ut
 
 ## Circuit Diagram
 
-(Include a schematic diagram showing connections between the Arduino, LCD, RGB LED, temperature sensor, relays, servos, and buttons.)
+![Diagrama_circuit](https://github.com/Mihai1912/Greenhouse-Monitoring-and-Control-System/assets/89154289/c0ce5683-6c94-43a7-a643-434b3da1f0bc)
+
+![Schema_electrica](https://github.com/Mihai1912/Greenhouse-Monitoring-and-Control-System/assets/89154289/651917b9-2a33-44f6-a959-cce2ebf9cfac)
